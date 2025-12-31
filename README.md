@@ -49,6 +49,4 @@ I enjoy building **scalable, user-friendly applications** and continuously learn
 
 ---
 
-## 📊 GitHub Stats
-![Ahadul's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=radical)
+
