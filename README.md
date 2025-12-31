@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://ibb.co.com/whpSPYCV)
+![Banner](https://i.postimg.cc/XYzzCStH/Chat-GPT-Image-Dec-31-2025-06-09-36-PM.png)
 
 # Hi, I'm Ahadul Islam 👋
 **Frontend Developer | Web Developer | MERN Enthusiast**
