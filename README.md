@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://your-banner-image-link.com/banner.png)
+![Banner](https://ibb.co.com/whpSPYCV)
 
 # Hi, I'm Ahadul Islam 👋
 **Frontend Developer | Web Developer | MERN Enthusiast**
